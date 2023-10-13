@@ -1,4 +1,4 @@
-// Syncronous D Flip-Flop
+// Synchronous D Flip-Flop
 module syncDFF(
 	input D,
 	input reset,
